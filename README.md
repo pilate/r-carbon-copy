@@ -5,5 +5,5 @@ Last CSS: https://b.thumbs.redditmedia.com/6OltOW6Xbz1dZNVKJfoWSbtycXGThq6mGDiNt
 
 Can be applied to your own subreddit by using `carbon.min.css` and uploading all of the 'images/' files along with it.
 
-The 'header/snoo.png' should be set as the header in the subreddit settings.
+The 'header/snoo.png' should be set as the header in your subreddit settings.
 
