@@ -1,5 +1,5 @@
 # r-carbon-copy
-Reconstructed from an archive.org backup of /r/carbon by /u/ggitaliano.
+Reconstructed from an archive.org backup of /r/carbon by /u/ggitaliano. Currently deployed on /r/Carbon_Copy.
 
 Last CSS: https://b.thumbs.redditmedia.com/6OltOW6Xbz1dZNVKJfoWSbtycXGThq6mGDiNtEeOQTw.css
 
